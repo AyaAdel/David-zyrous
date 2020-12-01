@@ -1,0 +1,111 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400&display=swap"
+    />
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="#151628" padding="40px 30px">
+      <mj-column>
+        <mj-image
+          width="212px"
+          height="56px"
+          padding-bottom="40px"
+          src="https://i.imgur.com/eq9Ovf5.png"
+          align="left"
+        />
+        <mj-image src="https://i.imgur.com/IKNvrr0.png" align="left" />
+        <mj-text
+          font-size="40px"
+          font-weight="700"
+          font-family="Montserrat, sans-serif"
+          color="#FFFFFF"
+          line-height="60px"
+          padding-bottom="15px"
+        >
+          Happy Holidays from all of us Zyrous!
+        </mj-text>
+        <mj-text
+          font-size="25px"
+          font-family="Montserrat, sans-serif"
+          color="#FFFFFF"
+          font-weight="200"
+          line-height="38px"
+          padding-bottom="20px"
+        >
+          <span style="font-weight: 700">Wow!</span> This year has been a crazy and challenging one! Managing the ups
+          and downs of a global pandemic has certainly been interesting, however fortunately here at Zyrous we managed
+          to weather most of it by already being a digital native cloud company. Operating as a fully remote working
+          company meant that ultimately didn’t miss a beat. Whilst like the rest of the world we did notice a slowing of
+          new work, we still managed to conquer some amazing feats and want to thank you for the work that was achieved
+          and successfully delivered. A few projects that were closed out in 2020 being Crowdpop, EDGE, EAA, TII and for
+          these we say <span style="font-weight: 700">Thank you!</span> At the same time still committing to our own
+          internal projects for the new Zyrous website and our Kolabree project!
+        </mj-text>
+        <mj-text
+          font-size="25px"
+          font-family="Montserrat, sans-serif"
+          color="#FFFFFF"
+          font-weight="300"
+          line-height="38px"
+          padding-bottom="20px"
+        >
+          Our staff is the best around. You deserve time with family and friends to enjoy this holiday season. We wish
+          you happiness, good health, and peace. We truly thank you for your devoted service to Zyrous. With this in
+          mind, we would like to call out our
+          <span style="color: #0be6e9; font-weight: 700"
+            >2 week shutdown period within Zyrous which will be from the 18th December to the 4th January.</span
+          >
+        </mj-text>
+        <mj-text
+          font-size="25px"
+          font-family="Montserrat, sans-serif"
+          color="#FFFFFF"
+          font-weight="200"
+          line-height="38px"
+          padding-bottom="20px"
+        >
+          We expect everyone to have time off for the shutdown unless specifically asked based on the project work they
+          are on.
+        </mj-text>
+        <mj-text
+          font-size="25px"
+          font-family="Montserrat, sans-serif"
+          color="#FFFFFF"
+          font-weight="200"
+          line-height="38px"
+          padding-bottom="20px"
+        >
+          We are looking forward to a big year next year based on the work pipeline we are standing up. We have a great
+          project with the Western Australian Health Department where we are getting going and as we are ramping up
+          marketing for Zyrous, we are looking and growing the company through 2021.
+        </mj-text>
+        <mj-text
+          font-size="25px"
+          font-family="Montserrat, sans-serif"
+          color="#FFFFFF"
+          font-weight="700"
+          line-height="38px"
+          padding-bottom="20px"
+        >
+          Thank you for all your efforts and we look forward to achieving great things again in 2021!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="40px 30px" background-color="#F00">
+      <mj-column>
+        <mj-image width="10px" src="https://i.imgur.com/qJlZYwe.png" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="20px" src="https://i.imgur.com/b1ESdIh.png" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="20px" src="https://i.imgur.com/rOFLNOH.png" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="20px" src="https://i.imgur.com/Ak046LH.png" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
